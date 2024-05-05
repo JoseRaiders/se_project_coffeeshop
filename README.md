@@ -1,28 +1,21 @@
 # Triple Espresso Coffee Shop
 
-This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
+This is the second project of the TripleTen software Engineering program. Based on the design brief, it was created using HTML and CSS.
 
 ## Features
 
-* HTML
 - Semantic HTML5
 - Best practices: BEM methodology and Flat BEM file structure
-
-* CSS
 - Flexbox
 - Positioning
 - CSS animation and transform
 - A custom form
-
-* Git
 - git add
 - git commit
 - git push
-
-* GitHub
-- Deploy to personal page
+- Deploy to my personal page on GitHub
 
 ## Plan on improving the project
 
-- Make the project responsive to adapt to different devices, such as larger screens, tablets and mobile.
+- Make the project responsive to devices like larger screens, tablets, and mobile phones.
 - Include a hamburger menu when viewed on smaller devices.
