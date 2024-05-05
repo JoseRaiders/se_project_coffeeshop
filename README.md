@@ -3,10 +3,7 @@
 This is the second project of the TripleTen software Engineering program. Based on the design brief, it was created using HTML and CSS.
 
 ## Features
-<<<<<<< HEAD
 
-=======
->>>>>>> aa016fc9394295af0a5f3bae4676dfd306469753
 - Semantic HTML5
 - Best practices: BEM methodology and Flat BEM file structure
 - Flexbox
@@ -21,8 +18,5 @@ This is the second project of the TripleTen software Engineering program. Based 
 ## Plan on improving the project
 
 - Make the project responsive to devices like larger screens, tablets, and mobile phones.
-<<<<<<< HEAD
 - Include a hamburger menu when viewed on smaller devices.
-=======
-- Include a hamburger menu when viewed on smaller devices.
->>>>>>> aa016fc9394295af0a5f3bae4676dfd306469753
+- Include an 'Back to top' button to allow visitors to navigate back to the top of the page.
